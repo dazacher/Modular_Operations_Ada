@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__numops.o
+[PROJECT FILES]
+C:\Users\User\Ada\Modular_Operations_Ada\numops.gpr
+20210716140530 173266c358351390c43b53a009c8e186
+[BOUND OBJECT FILES]
+C:\Users\User\Ada\Modular_Operations_Ada\obj\numops.o
+[GENERATED SOURCE FILES]
+b__numops.ads
+b__numops.adb
+b__numops.ali
+[RESULTING OPTIONS]
+-LC:\Users\User\Ada\Modular_Operations_Ada\obj\
+-LC:\Users\User\Ada\Modular_Operations_Ada\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
